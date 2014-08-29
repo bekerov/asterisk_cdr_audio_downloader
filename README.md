@@ -1,6 +1,7 @@
 Introduction
 ============
 This script created for working with Asterisk FreePBX CRD and helps listen and download files without Apple Quicktime.
+After install you able to download recorded calls in CDR reports.
 
 -------------------------------------------------------------------------------
 
