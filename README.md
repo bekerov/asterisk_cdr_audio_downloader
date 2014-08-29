@@ -5,7 +5,7 @@ This script created for working with Asterisk CRD and helps listen and download 
 -------------------------------------------------------------------------------
 
 Contact me
-----------
+==========
 If you have any questions, issues, feature requests, or just want to report
 your "success story", or maybe even say hi, please send an email to
 artur@bekerov.ru
